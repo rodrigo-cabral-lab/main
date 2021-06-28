@@ -4,6 +4,9 @@
 ### Researcher in Energy Engieenring Modeling and Simulation Lab
 ### Federal University of ABC
 ### rodrigo.cabral@ufabc.edu.br
+### [Lattes](http://lattes.cnpq.br/5074391080881437)
+### [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Vidal-Cabral)
+### [Linkedin](https://www.linkedin.com/in/rodrigo-vidal-cabral-845160139/)
 
 You can use the [editor on GitHub](https://github.com/rodrigo-cabral-lab/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
