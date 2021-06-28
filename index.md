@@ -1,5 +1,5 @@
 # CABRAL, R. V.
-### Researcher in Energy Engieenring Modeling and Simulation Lab
+### Researcher in Energy Engineering Modeling and Simulation Lab
 ### Main Research: CFD (Computer Fluid Dynamics)
 ### Federal University of ABC, SP, Brazil
 ### M.Sc. Student in Mechanical Engineering
