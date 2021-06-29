@@ -1,4 +1,4 @@
-![IMG_20191201_105013](https://user-images.githubusercontent.com/83255807/123676238-0d5ed480-d81a-11eb-92c9-897d5c01d147.jpg)
+![apresentação](https://user-images.githubusercontent.com/83255807/123832442-b8839280-d8db-11eb-8ce5-e0620abe314e.png)
 # CABRAL, R. V. 
 ### Researcher in Energy Engineering Modeling and Simulation Lab
 ### Main Research: CFD (Computer Fluid Dynamics)
