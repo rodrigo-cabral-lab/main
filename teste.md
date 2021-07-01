@@ -1,8 +1,6 @@
-# CABRAL, R. V. 
-### Researcher in Energy Engineering Modeling and Simulation Lab
-### Main Research: CFD (Computer Fluid Dynamics)
-### M.Sc. Student in Mechanical Engineering
-### B.Sc. Aerospace Engineering 
-### Federal University of ABC, SP, Brazil
-### Contact: rodrigo.cabral@ufabc.edu.br
-### More information: [Lattes](http://lattes.cnpq.br/5074391080881437), [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Vidal-Cabral), [Linkedin](https://www.linkedin.com/in/rodrigo-vidal-cabral-845160139/)
+# PROBLEMA DE DOIS CORPOS 
+
+1.	INTRODUÇÃO
+
+O problema de dois corpos é um estudo clássico da mecânica celeste. Com o desenvolvimento do modelo heliocêntrico a partir dos principais astrônomos modernos, tais como Nicolau Copérnico, Tycho Brahe, Johannes Kepler, Galileu Galilei e Isaac Newton  era primordial o estudo da interação entre os corpos do sistema solar. Particularmente no problema de dois corpos, adotamos apenas atração gravitacional como forma de interação entre eles, desprezando todas as possíveis perturbações que possam influenciar esse movimento. Corpos artificiais como satélites, também descrevem trajetórias em volta de corpos celestes, as chamadas órbitas. Vale lembrar que o corpo de maior massa tem por objetivo exercer uma força atrativa em relação ao corpo de menor massa, tais como satélites que orbitam em torno da Terra com diversas finalidades tecnológicas usuais em nosso planeta. 	      O problema de dois corpos possui solução fechada, ou seja, conseguimos representar tanto numericamente quanto analiticamente. No entanto, na mecânica celeste, assim como na engenharia no geral, nos deparamos com diversos problemas impossíveis de obter soluções analíticas, por conta disso é de fundamental importância partir para a solução numérica e analisar se o fenômeno está sendo representado cordialmente. Com isso, o objetivo desse trabalho é conhecer e visualizar a órbita que um veículo espacial descreve em torno da Terra em coordenadas cartesianas considerando o problema dinâmico de dois corpos [1].
+
